@@ -1,4 +1,4 @@
-# Technologie chumrowe - lab 5 i lab 6 - Mikołaj Nadra TI 6.2
+# Technologie chmurowe - lab 5 i lab 6 - Mikołaj Nadra TI 6.2
 
 ### Laboratorium 5
 
